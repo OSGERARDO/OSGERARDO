@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<!--
+
+  ¡Hello! how are you ?
+my name is gerardo and i am from santiago de chile
+udd bootcamp student I'm in the learning process
+
 **OSGERARDO/OSGERARDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
